@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 
 class LogOutComponent extends Component {
-
     render() {
         return(
             <>
