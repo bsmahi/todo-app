@@ -31,7 +31,7 @@ class LoginComponent extends Component {
             // this.setState({ showSuccessMessage: true })
             // this.setState({ hasLoginFailed: false })
         } else {
-            console.log('Failed')
+            // console.log('Failed')
             this.setState({ showSuccessMessage: false })
             this.setState({ hasLoginFailed: true })
         }
